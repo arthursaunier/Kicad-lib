@@ -1,6 +1,6 @@
 (footprint "Seed XIAO RP2040" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 63CB002E)
+  (tedit 63CB2024)
   (attr through_hole)
   (fp_text reference "REF**" (at 0 -12.7 unlocked) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
@@ -29,4 +29,9 @@
   (pad "12" thru_hole circle (at 7.62 -2.54) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask) (tstamp 2938bf2d-2d32-4cb0-9d4d-563ea28ffffa))
   (pad "13" thru_hole circle (at 7.62 -5.08) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask) (tstamp aa288a22-ea1d-474d-8dae-efe971580843))
   (pad "14" thru_hole circle (at 7.62 -7.62) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask) (tstamp 799d9f4a-bb6b-44d5-9f4c-3a30db59943d))
+  (model "/home/arthur/Documents/Kicad-lib/3D_parts/Seeed Studio XIAO RP2040 v26.step"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
