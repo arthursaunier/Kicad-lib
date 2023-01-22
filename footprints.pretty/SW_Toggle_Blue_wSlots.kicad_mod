@@ -1,6 +1,6 @@
 (footprint "SW_Toggle_Blue_wSlots" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 6156D150)
+  (tedit 63CD5BB9)
   (descr "SW Toggle")
   (tags "SW Toggle")
   (attr through_hole)
@@ -42,7 +42,7 @@
   (pad "1" thru_hole oval (at -4.7 0) (size 3.2 5) (drill oval 1 2.3) (layers *.Cu *.Mask) (tstamp 47d58055-8fbb-4aa4-a942-7e4b9489d39c))
   (pad "2" thru_hole oval (at 0 0) (size 3.2 5) (drill oval 1 2.3) (layers *.Cu *.Mask) (tstamp 43068b56-beb9-4b9e-ac7b-095123dd38d0))
   (pad "3" thru_hole oval (at 4.7 0) (size 3.2 5) (drill oval 1 2.3) (layers *.Cu *.Mask) (tstamp a7af078a-94f9-4777-b53a-316a0a3e23bd))
-  (model "${KICAD6_3DMODEL_DIR}/Button_Switch_THT.3dshapes/Toggle_SW_Blue_R0.step"
+  (model "${KIPRJMOD}/3D/Toggle_SW_Blue_R0.step"
     (offset (xyz -6.5 4 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 90))

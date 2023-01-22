@@ -1,6 +1,6 @@
 (footprint "SOT95P282X130-5N" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 63CC2C25)
+  (tedit 63CD5C19)
   (descr "SOT-23-5")
   (tags "Power Supply")
   (attr smd)
@@ -35,7 +35,7 @@
   (pad "3" smd rect (at -1.25 0.95 90) (size 0.6 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 0580e4f5-f17f-4260-bdee-a6c023ea7eb3))
   (pad "4" smd rect (at 1.25 0.95 90) (size 0.6 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 745d0277-7305-41f7-93c6-aa22db64d773))
   (pad "5" smd rect (at 1.25 -0.95 90) (size 0.6 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp ef28a94f-314d-4110-b61e-6782c30f7eec))
-  (model "/home/arthur/Documents/Kicad-lib/3D_parts/AP2210K-5.0TRG1.stp"
+  (model "${KIPRJMOD}/3D/AP2210K-5.0TRG1.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

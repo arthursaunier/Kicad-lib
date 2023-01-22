@@ -1,6 +1,6 @@
 (footprint "Thonkiconn" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 6206868D)
+  (tedit 63CD5BAE)
   (descr "TRS 3.5mm, vertical, Thonkiconn, PCB mount, (http://www.qingpu-electronics.com/en/products/WQP-PJ398SM-362.html)")
   (tags "WQP-PJ398SM WQP-PJ301M-12 TRS 3.5mm mono vertical jack thonkiconn qingpu")
   (attr through_hole)
@@ -48,7 +48,7 @@
   (pad "S" thru_hole rect (at 0 0 180) (size 1.93 1.83) (drill 1.22) (layers *.Cu *.Mask) (tstamp 639c0e59-e95c-4114-bccd-2e7277505454))
   (pad "T" thru_hole circle (at 0 11.4 180) (size 2.13 2.13) (drill 1.43) (layers *.Cu *.Mask) (tstamp 8ca3e20d-bcc7-4c5e-9deb-562dfed9fecb))
   (pad "TN" thru_hole circle (at 0 3.1 180) (size 2.13 2.13) (drill 1.42) (layers *.Cu *.Mask) (tstamp d3c11c8f-a73d-4211-934b-a6da255728ad))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_BarrelJack.3dshapes/PJ301M-12 Thonkiconn v0.2.stp"
+  (model "${KIPRJMOD}/3D/PJ301M-12 Thonkiconn v0.2.stp"
     (offset (xyz 0 -7 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 180))

@@ -1,6 +1,6 @@
 (footprint "SW_DPDT_Toggle" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 620A3D89)
+  (tedit 63CD5BC5)
   (attr through_hole)
   (fp_text reference "REF**" (at 0 -9.35) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
@@ -36,7 +36,7 @@
   (pad "4" thru_hole oval (at 4.7 2.4 90) (size 3.7 2.4) (drill oval 2.2 1) (layers *.Cu *.Mask) (tstamp dabe541b-b164-4180-97a4-5ca761b86800))
   (pad "5" thru_hole oval (at 0 2.4 90) (size 3.7 2.4) (drill oval 2.2 1) (layers *.Cu *.Mask) (tstamp e12e827e-36be-4503-8eef-6fc7e8bc5d49))
   (pad "6" thru_hole oval (at -4.7 2.4 90) (size 3.7 2.4) (drill oval 2.2 1) (layers *.Cu *.Mask) (tstamp 9dab0cb7-2557-4419-963b-5ae736517f62))
-  (model "${KICAD6_3DMODEL_DIR}/Button_Switch_THT.3dshapes/Toggle Switch - Double .step"
+  (model "${KIPRJMOD}/3D/Toggle Switch - Double .step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 90))
